@@ -1,0 +1,30 @@
+
+.app
+{   height: 90vh;
+    display:flex;
+    background-color: #dddedd;;
+    
+    
+}
+.sid
+{background-color: aqua;
+    flex:0.3;
+}
+.work{
+    background-color: blue;
+    flex:0.7;
+}
+.sb-header
+{
+    display: flex;
+    padding:10px;
+    margin:3px;
+    background-color:whitesmoke;
+    justify-content:space-between;
+}
+.chat
+{
+    border:1px solid black;
+    margin:3px;
+    border-radius: 3px;
+}
